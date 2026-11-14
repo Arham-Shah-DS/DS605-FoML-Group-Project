@@ -1,0 +1,6 @@
+data:
+  path: data/raw/Soil‑Weather Multivariate Crop Disease Dataset.csv
+  target: null
+
+project:
+  random_state: 42
